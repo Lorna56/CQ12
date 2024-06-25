@@ -5,3 +5,16 @@
 .plant{
     background-color: aquamarine;
 }
+p.play{
+    color: red;
+}
+p{
+    color: blue;
+}
+#paragraphTwo{
+    text-decoration: line-through;
+}
+ul li{
+    color: purple;
+    padding: 20px;
+}
